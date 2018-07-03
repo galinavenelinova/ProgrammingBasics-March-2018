@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\04.TriangleOfDollars\bin\Debug\04.TriangleOfDollars.exe.config
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\04.TriangleOfDollars\bin\Debug\04.TriangleOfDollars.exe
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\04.TriangleOfDollars\bin\Debug\04.TriangleOfDollars.pdb
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\04.TriangleOfDollars\obj\Debug\04.TriangleOfDollars.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\04.TriangleOfDollars\obj\Debug\04.TriangleOfDollars.exe
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\04.TriangleOfDollars\obj\Debug\04.TriangleOfDollars.pdb

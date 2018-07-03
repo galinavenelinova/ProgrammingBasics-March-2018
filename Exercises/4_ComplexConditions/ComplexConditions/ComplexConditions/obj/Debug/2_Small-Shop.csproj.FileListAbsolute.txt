@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\ComplexConditions\bin\Debug\ComplexConditions.exe.config
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\ComplexConditions\bin\Debug\ComplexConditions.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\ComplexConditions\bin\Debug\ComplexConditions.pdb
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\ComplexConditions\obj\Debug\2_Small-Shop.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\ComplexConditions\obj\Debug\2_Small-Shop.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\ComplexConditions\obj\Debug\ComplexConditions.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\ComplexConditions\obj\Debug\ComplexConditions.pdb

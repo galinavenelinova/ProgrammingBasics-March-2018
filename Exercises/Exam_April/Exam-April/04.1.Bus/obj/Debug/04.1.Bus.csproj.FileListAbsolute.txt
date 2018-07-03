@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\04.1.Bus\bin\Debug\04.1.Bus.exe.config
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\04.1.Bus\bin\Debug\04.1.Bus.exe
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\04.1.Bus\bin\Debug\04.1.Bus.pdb
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\04.1.Bus\obj\Debug\04.1.Bus.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\04.1.Bus\obj\Debug\04.1.Bus.exe
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\04.1.Bus\obj\Debug\04.1.Bus.pdb

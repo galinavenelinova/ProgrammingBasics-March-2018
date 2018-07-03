@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\01.DrawingRectangle10x10Stars\bin\Debug\01.DrawingRectangle10x10Stars.exe.config
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\01.DrawingRectangle10x10Stars\bin\Debug\01.DrawingRectangle10x10Stars.exe
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\01.DrawingRectangle10x10Stars\bin\Debug\01.DrawingRectangle10x10Stars.pdb
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\01.DrawingRectangle10x10Stars\obj\Debug\01.DrawingRectangle10x10Stars.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\01.DrawingRectangle10x10Stars\obj\Debug\01.DrawingRectangle10x10Stars.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\01.DrawingRectangle10x10Stars\obj\Debug\01.DrawingRectangle10x10Stars.exe
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\01.DrawingRectangle10x10Stars\obj\Debug\01.DrawingRectangle10x10Stars.pdb

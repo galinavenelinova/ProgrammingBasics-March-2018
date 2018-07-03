@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\06.1.PrimePairs\bin\Debug\06.1.PrimePairs.exe.config
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\06.1.PrimePairs\bin\Debug\06.1.PrimePairs.exe
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\06.1.PrimePairs\bin\Debug\06.1.PrimePairs.pdb
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\06.1.PrimePairs\obj\Debug\06.1.PrimePairs.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\06.1.PrimePairs\obj\Debug\06.1.PrimePairs.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\06.1.PrimePairs\obj\Debug\06.1.PrimePairs.exe
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\06.1.PrimePairs\obj\Debug\06.1.PrimePairs.pdb

@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.exe.config
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.exe
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.pdb
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.exe
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.pdb

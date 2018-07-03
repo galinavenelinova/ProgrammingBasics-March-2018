@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Inches-To-Centimeters\bin\Debug\Inches-To-Centimeters.exe.config
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Inches-To-Centimeters\bin\Debug\Inches-To-Centimeters.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Inches-To-Centimeters\bin\Debug\Inches-To-Centimeters.pdb
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Inches-To-Centimeters\obj\Debug\Inches-To-Centimeters.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Inches-To-Centimeters\obj\Debug\Inches-To-Centimeters.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Inches-To-Centimeters\obj\Debug\Inches-To-Centimeters.pdb

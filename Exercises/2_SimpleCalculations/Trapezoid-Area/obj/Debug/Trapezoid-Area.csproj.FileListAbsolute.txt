@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe.config
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.pdb
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.pdb

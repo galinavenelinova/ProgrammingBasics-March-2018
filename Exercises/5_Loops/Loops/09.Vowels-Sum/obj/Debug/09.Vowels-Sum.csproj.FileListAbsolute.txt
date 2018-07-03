@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\09.Vowels-Sum\bin\Debug\09.Vowels-Sum.exe.config
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\09.Vowels-Sum\bin\Debug\09.Vowels-Sum.exe
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\09.Vowels-Sum\bin\Debug\09.Vowels-Sum.pdb
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\09.Vowels-Sum\obj\Debug\09.Vowels-Sum.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\09.Vowels-Sum\obj\Debug\09.Vowels-Sum.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\09.Vowels-Sum\obj\Debug\09.Vowels-Sum.exe
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\09.Vowels-Sum\obj\Debug\09.Vowels-Sum.pdb

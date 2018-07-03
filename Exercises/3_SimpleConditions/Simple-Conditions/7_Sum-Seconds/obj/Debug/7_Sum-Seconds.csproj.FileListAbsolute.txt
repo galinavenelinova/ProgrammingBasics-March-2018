@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\7_Sum-Seconds\bin\Debug\7_Sum-Seconds.exe.config
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\7_Sum-Seconds\bin\Debug\7_Sum-Seconds.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\7_Sum-Seconds\bin\Debug\7_Sum-Seconds.pdb
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\7_Sum-Seconds\obj\Debug\7_Sum-Seconds.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\7_Sum-Seconds\obj\Debug\7_Sum-Seconds.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\7_Sum-Seconds\obj\Debug\7_Sum-Seconds.pdb

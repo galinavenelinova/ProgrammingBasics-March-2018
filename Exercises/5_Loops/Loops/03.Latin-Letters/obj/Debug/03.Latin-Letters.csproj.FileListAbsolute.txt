@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\03.Latin-Letters\bin\Debug\03.Latin-Letters.exe.config
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\03.Latin-Letters\bin\Debug\03.Latin-Letters.exe
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\03.Latin-Letters\bin\Debug\03.Latin-Letters.pdb
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\03.Latin-Letters\obj\Debug\03.Latin-Letters.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\03.Latin-Letters\obj\Debug\03.Latin-Letters.exe
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\03.Latin-Letters\obj\Debug\03.Latin-Letters.pdb

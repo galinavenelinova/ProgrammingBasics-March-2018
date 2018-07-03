@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\6_Bonus-Score\bin\Debug\6_Bonus-Score.exe.config
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\6_Bonus-Score\bin\Debug\6_Bonus-Score.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\6_Bonus-Score\bin\Debug\6_Bonus-Score.pdb
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\6_Bonus-Score\obj\Debug\6_Bonus-Score.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\6_Bonus-Score\obj\Debug\6_Bonus-Score.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\6_Bonus-Score\obj\Debug\6_Bonus-Score.pdb

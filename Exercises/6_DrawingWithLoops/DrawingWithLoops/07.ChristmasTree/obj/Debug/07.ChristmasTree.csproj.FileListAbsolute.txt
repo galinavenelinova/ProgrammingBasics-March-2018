@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\07.ChristmasTree\bin\Debug\07.ChristmasTree.exe.config
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\07.ChristmasTree\bin\Debug\07.ChristmasTree.exe
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\07.ChristmasTree\bin\Debug\07.ChristmasTree.pdb
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\07.ChristmasTree\obj\Debug\07.ChristmasTree.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\07.ChristmasTree\obj\Debug\07.ChristmasTree.exe
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\07.ChristmasTree\obj\Debug\07.ChristmasTree.pdb

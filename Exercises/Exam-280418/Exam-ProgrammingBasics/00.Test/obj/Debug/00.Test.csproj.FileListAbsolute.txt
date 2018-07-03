@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\00.Test\bin\Debug\00.Test.exe.config
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\00.Test\bin\Debug\00.Test.exe
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\00.Test\bin\Debug\00.Test.pdb
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\00.Test\obj\Debug\00.Test.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\00.Test\obj\Debug\00.Test.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\00.Test\obj\Debug\00.Test.exe
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\00.Test\obj\Debug\00.Test.pdb

@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\3_Operations-with-Numbers\bin\Debug\3_Operations-with-Numbers.exe.config
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\3_Operations-with-Numbers\bin\Debug\3_Operations-with-Numbers.exe
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\3_Operations-with-Numbers\bin\Debug\3_Operations-with-Numbers.pdb
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\3_Operations-with-Numbers\obj\Debug\3_Operations-with-Numbers.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\3_Operations-with-Numbers\obj\Debug\3_Operations-with-Numbers.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\3_Operations-with-Numbers\obj\Debug\3_Operations-with-Numbers.exe
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\3_Operations-with-Numbers\obj\Debug\3_Operations-with-Numbers.pdb

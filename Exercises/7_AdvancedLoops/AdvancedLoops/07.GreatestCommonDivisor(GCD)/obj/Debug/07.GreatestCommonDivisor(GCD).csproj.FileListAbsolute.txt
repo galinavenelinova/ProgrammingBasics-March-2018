@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\07.GreatestCommonDivisor(GCD)\bin\Debug\07.GreatestCommonDivisor(GCD).exe.config
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\07.GreatestCommonDivisor(GCD)\bin\Debug\07.GreatestCommonDivisor(GCD).exe
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\07.GreatestCommonDivisor(GCD)\bin\Debug\07.GreatestCommonDivisor(GCD).pdb
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\07.GreatestCommonDivisor(GCD)\obj\Debug\07.GreatestCommonDivisor(GCD).csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\07.GreatestCommonDivisor(GCD)\obj\Debug\07.GreatestCommonDivisor(GCD).exe
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\07.GreatestCommonDivisor(GCD)\obj\Debug\07.GreatestCommonDivisor(GCD).pdb

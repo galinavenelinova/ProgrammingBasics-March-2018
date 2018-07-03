@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\09.SumDigits\bin\Debug\09.SumDigits.exe.config
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\09.SumDigits\bin\Debug\09.SumDigits.exe
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\09.SumDigits\bin\Debug\09.SumDigits.pdb
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\09.SumDigits\obj\Debug\09.SumDigits.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\09.SumDigits\obj\Debug\09.SumDigits.exe
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\09.SumDigits\obj\Debug\09.SumDigits.pdb

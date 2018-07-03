@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\12.Fibonacci\bin\Debug\12.Fibonacci.exe.config
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\12.Fibonacci\bin\Debug\12.Fibonacci.exe
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\12.Fibonacci\bin\Debug\12.Fibonacci.pdb
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\12.Fibonacci\obj\Debug\12.Fibonacci.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\12.Fibonacci\obj\Debug\12.Fibonacci.exe
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\12.Fibonacci\obj\Debug\12.Fibonacci.pdb

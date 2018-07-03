@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\01.ProgrammingBook\bin\Debug\01.ProgrammingBook.exe.config
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\01.ProgrammingBook\bin\Debug\01.ProgrammingBook.exe
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\01.ProgrammingBook\bin\Debug\01.ProgrammingBook.pdb
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\01.ProgrammingBook\obj\Debug\01.ProgrammingBook.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\01.ProgrammingBook\obj\Debug\01.ProgrammingBook.exe
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\01.ProgrammingBook\obj\Debug\01.ProgrammingBook.pdb
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\01.ProgrammingBook\obj\Debug\01.ProgrammingBook.csprojResolveAssemblyReference.cache

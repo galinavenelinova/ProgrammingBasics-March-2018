@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\4_Match-tickets\bin\Debug\4_Match-tickets.exe.config
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\4_Match-tickets\bin\Debug\4_Match-tickets.exe
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\4_Match-tickets\bin\Debug\4_Match-tickets.pdb
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\4_Match-tickets\obj\Debug\4_Match-tickets.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\4_Match-tickets\obj\Debug\4_Match-tickets.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\4_Match-tickets\obj\Debug\4_Match-tickets.exe
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\4_Match-tickets\obj\Debug\4_Match-tickets.pdb

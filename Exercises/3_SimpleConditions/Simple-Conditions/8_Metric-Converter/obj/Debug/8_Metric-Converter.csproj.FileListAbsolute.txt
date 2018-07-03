@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\8_Metric-Converter\obj\Debug\8_Metric-Converter.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\8_Metric-Converter\obj\Debug\8_Metric-Converter.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\8_Metric-Converter\bin\Debug\8_Metric-Converter.exe.config
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\8_Metric-Converter\bin\Debug\8_Metric-Converter.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\8_Metric-Converter\bin\Debug\8_Metric-Converter.pdb
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\8_Metric-Converter\obj\Debug\8_Metric-Converter.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\8_Metric-Converter\obj\Debug\8_Metric-Converter.pdb

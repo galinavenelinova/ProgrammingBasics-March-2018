@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\03.SquareOfStars\bin\Debug\03.SquareOfStars.exe.config
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\03.SquareOfStars\bin\Debug\03.SquareOfStars.exe
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\03.SquareOfStars\bin\Debug\03.SquareOfStars.pdb
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\03.SquareOfStars\obj\Debug\03.SquareOfStars.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\03.SquareOfStars\obj\Debug\03.SquareOfStars.exe
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\03.SquareOfStars\obj\Debug\03.SquareOfStars.pdb

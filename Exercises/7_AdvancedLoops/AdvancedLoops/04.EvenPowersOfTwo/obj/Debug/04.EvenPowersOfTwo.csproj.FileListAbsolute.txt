@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\04.EvenPowersOfTwo\bin\Debug\04.EvenPowersOfTwo.exe.config
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\04.EvenPowersOfTwo\bin\Debug\04.EvenPowersOfTwo.exe
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\04.EvenPowersOfTwo\bin\Debug\04.EvenPowersOfTwo.pdb
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\04.EvenPowersOfTwo\obj\Debug\04.EvenPowersOfTwo.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\04.EvenPowersOfTwo\obj\Debug\04.EvenPowersOfTwo.exe
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\04.EvenPowersOfTwo\obj\Debug\04.EvenPowersOfTwo.pdb

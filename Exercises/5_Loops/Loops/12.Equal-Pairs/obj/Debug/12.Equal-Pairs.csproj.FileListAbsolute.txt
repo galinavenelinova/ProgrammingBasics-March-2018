@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\12.Equal-Pairs\bin\Debug\12.Equal-Pairs.exe.config
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\12.Equal-Pairs\bin\Debug\12.Equal-Pairs.exe
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\12.Equal-Pairs\bin\Debug\12.Equal-Pairs.pdb
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\12.Equal-Pairs\obj\Debug\12.Equal-Pairs.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\12.Equal-Pairs\obj\Debug\12.Equal-Pairs.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\12.Equal-Pairs\obj\Debug\12.Equal-Pairs.exe
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\12.Equal-Pairs\obj\Debug\12.Equal-Pairs.pdb

@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\08.Odd-Even-Sum\bin\Debug\08.Odd-Even-Sum.exe.config
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\08.Odd-Even-Sum\bin\Debug\08.Odd-Even-Sum.exe
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\08.Odd-Even-Sum\bin\Debug\08.Odd-Even-Sum.pdb
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\08.Odd-Even-Sum\obj\Debug\08.Odd-Even-Sum.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\08.Odd-Even-Sum\obj\Debug\08.Odd-Even-Sum.exe
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\08.Odd-Even-Sum\obj\Debug\08.Odd-Even-Sum.pdb

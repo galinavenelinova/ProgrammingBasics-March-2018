@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\06.BankNumberGenerator\bin\Debug\06.BankNumberGenerator.exe.config
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\06.BankNumberGenerator\bin\Debug\06.BankNumberGenerator.exe
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\06.BankNumberGenerator\bin\Debug\06.BankNumberGenerator.pdb
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\06.BankNumberGenerator\obj\Debug\06.BankNumberGenerator.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\06.BankNumberGenerator\obj\Debug\06.BankNumberGenerator.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\06.BankNumberGenerator\obj\Debug\06.BankNumberGenerator.exe
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\06.BankNumberGenerator\obj\Debug\06.BankNumberGenerator.pdb

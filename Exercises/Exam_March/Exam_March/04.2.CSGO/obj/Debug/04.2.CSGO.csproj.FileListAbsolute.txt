@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\04.2.CSGO\bin\Debug\04.2.CSGO.exe.config
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\04.2.CSGO\bin\Debug\04.2.CSGO.exe
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\04.2.CSGO\bin\Debug\04.2.CSGO.pdb
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\04.2.CSGO\obj\Debug\04.2.CSGO.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\04.2.CSGO\obj\Debug\04.2.CSGO.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\04.2.CSGO\obj\Debug\04.2.CSGO.exe
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\04.2.CSGO\obj\Debug\04.2.CSGO.pdb

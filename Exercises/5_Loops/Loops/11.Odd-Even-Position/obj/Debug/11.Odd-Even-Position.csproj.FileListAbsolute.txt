@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\11.Odd-Even-Position\bin\Debug\11.Odd-Even-Position.exe.config
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\11.Odd-Even-Position\bin\Debug\11.Odd-Even-Position.exe
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\11.Odd-Even-Position\bin\Debug\11.Odd-Even-Position.pdb
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\11.Odd-Even-Position\obj\Debug\11.Odd-Even-Position.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\11.Odd-Even-Position\obj\Debug\11.Odd-Even-Position.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\11.Odd-Even-Position\obj\Debug\11.Odd-Even-Position.exe
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\11.Odd-Even-Position\obj\Debug\11.Odd-Even-Position.pdb

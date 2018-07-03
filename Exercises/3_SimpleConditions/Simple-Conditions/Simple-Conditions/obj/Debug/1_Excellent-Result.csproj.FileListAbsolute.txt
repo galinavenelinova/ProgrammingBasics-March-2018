@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\Simple-Conditions\bin\Debug\Simple-Conditions.exe.config
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\Simple-Conditions\bin\Debug\Simple-Conditions.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\Simple-Conditions\bin\Debug\Simple-Conditions.pdb
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\Simple-Conditions\obj\Debug\1_Excellent-Result.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\Simple-Conditions\obj\Debug\1_Excellent-Result.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\Simple-Conditions\obj\Debug\Simple-Conditions.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\Simple-Conditions\obj\Debug\Simple-Conditions.pdb

@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\2D-Rectangle-Area\bin\Debug\2D-Rectangle-Area.exe.config
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\2D-Rectangle-Area\bin\Debug\2D-Rectangle-Area.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\2D-Rectangle-Area\bin\Debug\2D-Rectangle-Area.pdb
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\2D-Rectangle-Area\obj\Debug\2D-Rectangle-Area.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\2D-Rectangle-Area\obj\Debug\2D-Rectangle-Area.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\2D-Rectangle-Area\obj\Debug\2D-Rectangle-Area.pdb

@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\06.2.SpecialCombinations\bin\Debug\06.2.SpecialCombinations.exe.config
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\06.2.SpecialCombinations\bin\Debug\06.2.SpecialCombinations.exe
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\06.2.SpecialCombinations\bin\Debug\06.2.SpecialCombinations.pdb
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\06.2.SpecialCombinations\obj\Debug\06.2.SpecialCombinations.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\06.2.SpecialCombinations\obj\Debug\06.2.SpecialCombinations.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\06.2.SpecialCombinations\obj\Debug\06.2.SpecialCombinations.exe
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\06.2.SpecialCombinations\obj\Debug\06.2.SpecialCombinations.pdb

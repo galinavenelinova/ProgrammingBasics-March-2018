@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\14.NumberTable\bin\Debug\14.NumberTable.exe.config
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\14.NumberTable\bin\Debug\14.NumberTable.exe
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\14.NumberTable\bin\Debug\14.NumberTable.pdb
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\14.NumberTable\obj\Debug\14.NumberTable.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\14.NumberTable\obj\Debug\14.NumberTable.exe
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\14.NumberTable\obj\Debug\14.NumberTable.pdb

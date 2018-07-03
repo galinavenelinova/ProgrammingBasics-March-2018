@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\6_Point-on-Rectangle-Border\bin\Debug\6_Point-on-Rectangle-Border.exe.config
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\6_Point-on-Rectangle-Border\bin\Debug\6_Point-on-Rectangle-Border.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\6_Point-on-Rectangle-Border\bin\Debug\6_Point-on-Rectangle-Border.pdb
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\6_Point-on-Rectangle-Border\obj\Debug\6_Point-on-Rectangle-Border.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\6_Point-on-Rectangle-Border\obj\Debug\6_Point-on-Rectangle-Border.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\6_Point-on-Rectangle-Border\obj\Debug\6_Point-on-Rectangle-Border.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\6_Point-on-Rectangle-Border\obj\Debug\6_Point-on-Rectangle-Border.pdb

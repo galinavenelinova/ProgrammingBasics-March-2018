@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\01.01.Numbers 1toN with Step 3\bin\Debug\01.01.Numbers 1toN with Step 3.exe.config
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\01.01.Numbers 1toN with Step 3\bin\Debug\01.01.Numbers 1toN with Step 3.exe
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\01.01.Numbers 1toN with Step 3\bin\Debug\01.01.Numbers 1toN with Step 3.pdb
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\01.01.Numbers 1toN with Step 3\obj\Debug\01.01.Numbers 1toN with Step 3.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\01.01.Numbers 1toN with Step 3\obj\Debug\01.01.Numbers 1toN with Step 3.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\01.01.Numbers 1toN with Step 3\obj\Debug\01.01.Numbers 1toN with Step 3.exe
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\01.01.Numbers 1toN with Step 3\obj\Debug\01.01.Numbers 1toN with Step 3.pdb

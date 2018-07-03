@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_12_Speed-Info\bin\Debug\_12_Speed-Info.exe.config
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_12_Speed-Info\bin\Debug\_12_Speed-Info.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_12_Speed-Info\bin\Debug\_12_Speed-Info.pdb
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_12_Speed-Info\obj\Debug\_12_Speed-Info.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_12_Speed-Info\obj\Debug\_12_Speed-Info.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_12_Speed-Info\obj\Debug\_12_Speed-Info.pdb

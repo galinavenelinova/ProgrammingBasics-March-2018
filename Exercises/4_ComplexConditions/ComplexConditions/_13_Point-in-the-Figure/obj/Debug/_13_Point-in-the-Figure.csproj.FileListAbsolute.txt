@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\_13_Point-in-the-Figure\bin\Debug\_13_Point-in-the-Figure.exe.config
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\_13_Point-in-the-Figure\bin\Debug\_13_Point-in-the-Figure.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\_13_Point-in-the-Figure\bin\Debug\_13_Point-in-the-Figure.pdb
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\_13_Point-in-the-Figure\obj\Debug\_13_Point-in-the-Figure.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\_13_Point-in-the-Figure\obj\Debug\_13_Point-in-the-Figure.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\_13_Point-in-the-Figure\obj\Debug\_13_Point-in-the-Figure.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\_13_Point-in-the-Figure\obj\Debug\_13_Point-in-the-Figure.pdb

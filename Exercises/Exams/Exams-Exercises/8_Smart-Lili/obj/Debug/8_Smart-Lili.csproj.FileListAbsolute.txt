@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\8_Smart-Lili\bin\Debug\8_Smart-Lili.exe.config
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\8_Smart-Lili\bin\Debug\8_Smart-Lili.exe
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\8_Smart-Lili\bin\Debug\8_Smart-Lili.pdb
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\8_Smart-Lili\obj\Debug\8_Smart-Lili.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\8_Smart-Lili\obj\Debug\8_Smart-Lili.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\8_Smart-Lili\obj\Debug\8_Smart-Lili.exe
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\8_Smart-Lili\obj\Debug\8_Smart-Lili.pdb

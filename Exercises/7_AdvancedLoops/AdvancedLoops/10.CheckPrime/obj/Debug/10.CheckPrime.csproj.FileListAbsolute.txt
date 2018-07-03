@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\10.CheckPrime\bin\Debug\10.CheckPrime.exe.config
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\10.CheckPrime\bin\Debug\10.CheckPrime.exe
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\10.CheckPrime\bin\Debug\10.CheckPrime.pdb
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\10.CheckPrime\obj\Debug\10.CheckPrime.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\10.CheckPrime\obj\Debug\10.CheckPrime.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\10.CheckPrime\obj\Debug\10.CheckPrime.exe
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\10.CheckPrime\obj\Debug\10.CheckPrime.pdb

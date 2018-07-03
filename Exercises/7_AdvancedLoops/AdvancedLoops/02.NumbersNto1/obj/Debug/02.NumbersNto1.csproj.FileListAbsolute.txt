@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\02.NumbersNto1\bin\Debug\02.NumbersNto1.exe.config
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\02.NumbersNto1\bin\Debug\02.NumbersNto1.exe
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\02.NumbersNto1\bin\Debug\02.NumbersNto1.pdb
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\02.NumbersNto1\obj\Debug\02.NumbersNto1.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\02.NumbersNto1\obj\Debug\02.NumbersNto1.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\02.NumbersNto1\obj\Debug\02.NumbersNto1.exe
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\02.NumbersNto1\obj\Debug\02.NumbersNto1.pdb

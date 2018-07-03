@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\10.Half-Sum-Element\bin\Debug\10.Half-Sum-Element.exe.config
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\10.Half-Sum-Element\bin\Debug\10.Half-Sum-Element.exe
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\10.Half-Sum-Element\bin\Debug\10.Half-Sum-Element.pdb
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\10.Half-Sum-Element\obj\Debug\10.Half-Sum-Element.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\10.Half-Sum-Element\obj\Debug\10.Half-Sum-Element.exe
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\10.Half-Sum-Element\obj\Debug\10.Half-Sum-Element.pdb

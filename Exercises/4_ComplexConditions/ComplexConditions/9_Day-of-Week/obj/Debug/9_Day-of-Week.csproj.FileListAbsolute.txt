@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\9_Day-of-Week\obj\Debug\9_Day-of-Week.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\9_Day-of-Week\obj\Debug\9_Day-of-Week.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\9_Day-of-Week\bin\Debug\9_Day-of-Week.exe.config
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\9_Day-of-Week\bin\Debug\9_Day-of-Week.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\9_Day-of-Week\bin\Debug\9_Day-of-Week.pdb
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\9_Day-of-Week\obj\Debug\9_Day-of-Week.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\9_Day-of-Week\obj\Debug\9_Day-of-Week.pdb

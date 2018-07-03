@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\Exams-Exercises\bin\Debug\Exams-Exercises.exe.config
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\Exams-Exercises\bin\Debug\Exams-Exercises.exe
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\Exams-Exercises\bin\Debug\Exams-Exercises.pdb
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\Exams-Exercises\obj\Debug\1_On-Time-for-the-Exam.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\Exams-Exercises\obj\Debug\1_On-Time-for-the-Exam.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\Exams-Exercises\obj\Debug\Exams-Exercises.exe
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\Exams-Exercises\obj\Debug\Exams-Exercises.pdb

@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\06.NumberInRange1to100\bin\Debug\06.NumberInRange1to100.exe.config
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\06.NumberInRange1to100\bin\Debug\06.NumberInRange1to100.exe
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\06.NumberInRange1to100\bin\Debug\06.NumberInRange1to100.pdb
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\06.NumberInRange1to100\obj\Debug\06.NumberInRange1to100.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\06.NumberInRange1to100\obj\Debug\06.NumberInRange1to100.exe
+D:\ProgrammingBasics2018\Exercises\7_AdvancedLoops\AdvancedLoops\06.NumberInRange1to100\obj\Debug\06.NumberInRange1to100.pdb

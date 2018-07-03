@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\4_Greater-Number\bin\Debug\4_Greater-Number.exe.config
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\4_Greater-Number\bin\Debug\4_Greater-Number.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\4_Greater-Number\bin\Debug\4_Greater-Number.pdb
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\4_Greater-Number\obj\Debug\4_Greater-Number.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\4_Greater-Number\obj\Debug\4_Greater-Number.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\4_Greater-Number\obj\Debug\4_Greater-Number.pdb

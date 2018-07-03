@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_11_Equal-Words\bin\Debug\_11_Equal-Words.exe.config
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_11_Equal-Words\bin\Debug\_11_Equal-Words.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_11_Equal-Words\bin\Debug\_11_Equal-Words.pdb
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_11_Equal-Words\obj\Debug\_11_Equal-Words.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_11_Equal-Words\obj\Debug\_11_Equal-Words.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_11_Equal-Words\obj\Debug\_11_Equal-Words.pdb

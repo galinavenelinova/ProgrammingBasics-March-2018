@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\7_Fruit-Shop\bin\Debug\7_Fruit-Shop.exe.config
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\7_Fruit-Shop\bin\Debug\7_Fruit-Shop.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\7_Fruit-Shop\bin\Debug\7_Fruit-Shop.pdb
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\7_Fruit-Shop\obj\Debug\7_Fruit-Shop.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\7_Fruit-Shop\obj\Debug\7_Fruit-Shop.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\7_Fruit-Shop\obj\Debug\7_Fruit-Shop.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\7_Fruit-Shop\obj\Debug\7_Fruit-Shop.pdb

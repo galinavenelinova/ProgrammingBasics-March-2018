@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\03.FitnessCard\bin\Debug\03.FitnessCard.exe.config
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\03.FitnessCard\bin\Debug\03.FitnessCard.exe
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\03.FitnessCard\bin\Debug\03.FitnessCard.pdb
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\03.FitnessCard\obj\Debug\03.FitnessCard.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\03.FitnessCard\obj\Debug\03.FitnessCard.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\03.FitnessCard\obj\Debug\03.FitnessCard.exe
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\03.FitnessCard\obj\Debug\03.FitnessCard.pdb

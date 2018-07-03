@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_13_Area-of-Figures\bin\Debug\_13_Area-of-Figures.exe.config
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_13_Area-of-Figures\bin\Debug\_13_Area-of-Figures.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_13_Area-of-Figures\bin\Debug\_13_Area-of-Figures.pdb
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_13_Area-of-Figures\obj\Debug\_13_Area-of-Figures.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_13_Area-of-Figures\obj\Debug\_13_Area-of-Figures.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_13_Area-of-Figures\obj\Debug\_13_Area-of-Figures.pdb

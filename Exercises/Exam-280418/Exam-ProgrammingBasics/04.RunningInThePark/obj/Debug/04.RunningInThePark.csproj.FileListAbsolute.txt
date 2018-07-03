@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\04.RunningInThePark\bin\Debug\04.RunningInThePark.exe.config
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\04.RunningInThePark\bin\Debug\04.RunningInThePark.exe
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\04.RunningInThePark\bin\Debug\04.RunningInThePark.pdb
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\04.RunningInThePark\obj\Debug\04.RunningInThePark.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\04.RunningInThePark\obj\Debug\04.RunningInThePark.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\04.RunningInThePark\obj\Debug\04.RunningInThePark.exe
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\04.RunningInThePark\obj\Debug\04.RunningInThePark.pdb

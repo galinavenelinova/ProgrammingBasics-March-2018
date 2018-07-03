@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\04.1.ASCII-Combinations\bin\Debug\04.1.ASCII-Combinations.exe.config
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\04.1.ASCII-Combinations\bin\Debug\04.1.ASCII-Combinations.exe
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\04.1.ASCII-Combinations\bin\Debug\04.1.ASCII-Combinations.pdb
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\04.1.ASCII-Combinations\obj\Debug\04.1.ASCII-Combinations.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\04.1.ASCII-Combinations\obj\Debug\04.1.ASCII-Combinations.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\04.1.ASCII-Combinations\obj\Debug\04.1.ASCII-Combinations.exe
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\04.1.ASCII-Combinations\obj\Debug\04.1.ASCII-Combinations.pdb

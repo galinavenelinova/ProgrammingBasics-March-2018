@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Radians-to-Degrees\bin\Debug\Radians-to-Degrees.exe.config
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Radians-to-Degrees\bin\Debug\Radians-to-Degrees.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Radians-to-Degrees\bin\Debug\Radians-to-Degrees.pdb
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Radians-to-Degrees\obj\Debug\Radians-to-Degrees.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Radians-to-Degrees\obj\Debug\Radians-to-Degrees.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Radians-to-Degrees\obj\Debug\Radians-to-Degrees.pdb

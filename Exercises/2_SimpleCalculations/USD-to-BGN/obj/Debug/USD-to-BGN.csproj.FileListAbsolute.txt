@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\USD-to-BGN\bin\Debug\USD-to-BGN.exe.config
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\USD-to-BGN\bin\Debug\USD-to-BGN.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\USD-to-BGN\bin\Debug\USD-to-BGN.pdb
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\USD-to-BGN\obj\Debug\USD-to-BGN.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\USD-to-BGN\obj\Debug\USD-to-BGN.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\USD-to-BGN\obj\Debug\USD-to-BGN.pdb

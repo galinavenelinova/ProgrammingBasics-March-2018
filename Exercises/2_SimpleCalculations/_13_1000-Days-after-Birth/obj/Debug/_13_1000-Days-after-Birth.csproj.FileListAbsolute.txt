@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\_13_1000-Days-after-Birth\bin\Debug\_13_1000-Days-after-Birth.exe.config
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\_13_1000-Days-after-Birth\bin\Debug\_13_1000-Days-after-Birth.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\_13_1000-Days-after-Birth\bin\Debug\_13_1000-Days-after-Birth.pdb
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\_13_1000-Days-after-Birth\obj\Debug\_13_1000-Days-after-Birth.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\_13_1000-Days-after-Birth\obj\Debug\_13_1000-Days-after-Birth.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\_13_1000-Days-after-Birth\obj\Debug\_13_1000-Days-after-Birth.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\_13_1000-Days-after-Birth\obj\Debug\_13_1000-Days-after-Birth.pdb

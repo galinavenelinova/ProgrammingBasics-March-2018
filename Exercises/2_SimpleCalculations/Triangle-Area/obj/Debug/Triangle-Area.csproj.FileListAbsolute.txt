@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Triangle-Area\bin\Debug\Triangle-Area.exe.config
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Triangle-Area\bin\Debug\Triangle-Area.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Triangle-Area\bin\Debug\Triangle-Area.pdb
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Triangle-Area\obj\Debug\Triangle-Area.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Triangle-Area\obj\Debug\Triangle-Area.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Triangle-Area\obj\Debug\Triangle-Area.pdb

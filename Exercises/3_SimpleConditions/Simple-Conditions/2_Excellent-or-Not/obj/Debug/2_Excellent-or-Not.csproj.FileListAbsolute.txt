@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\2_Excellent-or-Not\bin\Debug\2_Excellent-or-Not.exe.config
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\2_Excellent-or-Not\bin\Debug\2_Excellent-or-Not.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\2_Excellent-or-Not\bin\Debug\2_Excellent-or-Not.pdb
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\2_Excellent-or-Not\obj\Debug\2_Excellent-or-Not.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\2_Excellent-or-Not\obj\Debug\2_Excellent-or-Not.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\2_Excellent-or-Not\obj\Debug\2_Excellent-or-Not.pdb

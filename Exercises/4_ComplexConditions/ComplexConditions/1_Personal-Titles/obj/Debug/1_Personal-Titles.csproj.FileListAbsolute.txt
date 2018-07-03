@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\1_Personal-Titles\obj\Debug\1_Personal-Titles.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\1_Personal-Titles\obj\Debug\1_Personal-Titles.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\1_Personal-Titles\bin\Debug\1_Personal-Titles.exe.config
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\1_Personal-Titles\bin\Debug\1_Personal-Titles.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\1_Personal-Titles\bin\Debug\1_Personal-Titles.pdb
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\1_Personal-Titles\obj\Debug\1_Personal-Titles.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\1_Personal-Titles\obj\Debug\1_Personal-Titles.pdb

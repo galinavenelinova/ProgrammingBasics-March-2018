@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\7_Division-without-Residue\bin\Debug\7_Division-without-Residue.exe.config
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\7_Division-without-Residue\bin\Debug\7_Division-without-Residue.exe
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\7_Division-without-Residue\bin\Debug\7_Division-without-Residue.pdb
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\7_Division-without-Residue\obj\Debug\7_Division-without-Residue.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\7_Division-without-Residue\obj\Debug\7_Division-without-Residue.exe
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\7_Division-without-Residue\obj\Debug\7_Division-without-Residue.pdb

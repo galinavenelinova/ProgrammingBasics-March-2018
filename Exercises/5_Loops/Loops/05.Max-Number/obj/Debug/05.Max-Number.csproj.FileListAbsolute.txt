@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\05.Max-Number\bin\Debug\05.Max-Number.exe.config
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\05.Max-Number\bin\Debug\05.Max-Number.exe
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\05.Max-Number\bin\Debug\05.Max-Number.pdb
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\05.Max-Number\obj\Debug\05.Max-Number.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\05.Max-Number\obj\Debug\05.Max-Number.exe
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\05.Max-Number\obj\Debug\05.Max-Number.pdb

@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\5_Invalid-Number\bin\Debug\5_Invalid-Number.exe.config
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\5_Invalid-Number\bin\Debug\5_Invalid-Number.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\5_Invalid-Number\bin\Debug\5_Invalid-Number.pdb
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\5_Invalid-Number\obj\Debug\5_Invalid-Number.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\5_Invalid-Number\obj\Debug\5_Invalid-Number.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\5_Invalid-Number\obj\Debug\5_Invalid-Number.pdb

@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\10.Diamond\bin\Debug\10.Diamond.exe.config
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\10.Diamond\bin\Debug\10.Diamond.exe
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\10.Diamond\bin\Debug\10.Diamond.pdb
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\10.Diamond\obj\Debug\10.Diamond.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\10.Diamond\obj\Debug\10.Diamond.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\10.Diamond\obj\Debug\10.Diamond.exe
+D:\ProgrammingBasics2018\Exercises\6_DrawingWithLoops\DrawingWithLoops\10.Diamond\obj\Debug\10.Diamond.pdb

@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\06.1.CarNumber\bin\Debug\06.1.CarNumber.exe.config
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\06.1.CarNumber\bin\Debug\06.1.CarNumber.exe
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\06.1.CarNumber\bin\Debug\06.1.CarNumber.pdb
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\06.1.CarNumber\obj\Debug\06.1.CarNumber.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\06.1.CarNumber\obj\Debug\06.1.CarNumber.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\06.1.CarNumber\obj\Debug\06.1.CarNumber.exe
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\06.1.CarNumber\obj\Debug\06.1.CarNumber.pdb

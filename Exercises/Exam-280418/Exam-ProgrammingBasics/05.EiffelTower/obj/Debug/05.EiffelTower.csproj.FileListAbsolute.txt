@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\05.EiffelTower\bin\Debug\05.EiffelTower.exe.config
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\05.EiffelTower\bin\Debug\05.EiffelTower.exe
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\05.EiffelTower\bin\Debug\05.EiffelTower.pdb
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\05.EiffelTower\obj\Debug\05.EiffelTower.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\05.EiffelTower\obj\Debug\05.EiffelTower.exe
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\05.EiffelTower\obj\Debug\05.EiffelTower.pdb

@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\02.AnualSalary\bin\Debug\02.AnualSalary.exe.config
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\02.AnualSalary\bin\Debug\02.AnualSalary.exe
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\02.AnualSalary\bin\Debug\02.AnualSalary.pdb
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\02.AnualSalary\obj\Debug\02.AnualSalary.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\02.AnualSalary\obj\Debug\02.AnualSalary.exe
+D:\ProgrammingBasics2018\Exam-280418\Exam-ProgrammingBasics\02.AnualSalary\obj\Debug\02.AnualSalary.pdb

@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\SimpleConditions\Simple-Conditions\_15_3-Equal-Numbers\bin\Debug\_15_3-Equal-Numbers.exe.config
+D:\ProgrammingBasics2018\Exercises\SimpleConditions\Simple-Conditions\_15_3-Equal-Numbers\bin\Debug\_15_3-Equal-Numbers.exe
+D:\ProgrammingBasics2018\Exercises\SimpleConditions\Simple-Conditions\_15_3-Equal-Numbers\bin\Debug\_15_3-Equal-Numbers.pdb
+D:\ProgrammingBasics2018\Exercises\SimpleConditions\Simple-Conditions\_15_3-Equal-Numbers\obj\Debug\_15_3-Equal-Numbers.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\SimpleConditions\Simple-Conditions\_15_3-Equal-Numbers\obj\Debug\_15_3-Equal-Numbers.exe
+D:\ProgrammingBasics2018\Exercises\SimpleConditions\Simple-Conditions\_15_3-Equal-Numbers\obj\Debug\_15_3-Equal-Numbers.pdb

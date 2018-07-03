@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\04.1.Skyscraper\obj\Debug\04.1.Skyscraper.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\04.1.Skyscraper\obj\Debug\04.1.Skyscraper.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\04.1.Skyscraper\bin\Debug\04.1.Skyscraper.exe.config
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\04.1.Skyscraper\bin\Debug\04.1.Skyscraper.exe
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\04.1.Skyscraper\bin\Debug\04.1.Skyscraper.pdb
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\04.1.Skyscraper\obj\Debug\04.1.Skyscraper.exe
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\04.1.Skyscraper\obj\Debug\04.1.Skyscraper.pdb

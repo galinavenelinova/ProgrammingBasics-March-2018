@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\03.1.Slot-Machine\bin\Debug\03.1.Slot-Machine.exe.config
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\03.1.Slot-Machine\bin\Debug\03.1.Slot-Machine.exe
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\03.1.Slot-Machine\bin\Debug\03.1.Slot-Machine.pdb
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\03.1.Slot-Machine\obj\Debug\03.1.Slot-Machine.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\03.1.Slot-Machine\obj\Debug\03.1.Slot-Machine.exe
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\03.1.Slot-Machine\obj\Debug\03.1.Slot-Machine.pdb

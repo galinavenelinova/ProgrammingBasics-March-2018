@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\SimpleConditions\Simple-Conditions\_14_Time-Plus-15-Minutes\bin\Debug\_14_Time-Plus-15-Minutes.exe.config
+D:\ProgrammingBasics2018\Exercises\SimpleConditions\Simple-Conditions\_14_Time-Plus-15-Minutes\bin\Debug\_14_Time-Plus-15-Minutes.exe
+D:\ProgrammingBasics2018\Exercises\SimpleConditions\Simple-Conditions\_14_Time-Plus-15-Minutes\bin\Debug\_14_Time-Plus-15-Minutes.pdb
+D:\ProgrammingBasics2018\Exercises\SimpleConditions\Simple-Conditions\_14_Time-Plus-15-Minutes\obj\Debug\_14_Time-Plus-15-Minutes.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\SimpleConditions\Simple-Conditions\_14_Time-Plus-15-Minutes\obj\Debug\_14_Time-Plus-15-Minutes.exe
+D:\ProgrammingBasics2018\Exercises\SimpleConditions\Simple-Conditions\_14_Time-Plus-15-Minutes\obj\Debug\_14_Time-Plus-15-Minutes.pdb

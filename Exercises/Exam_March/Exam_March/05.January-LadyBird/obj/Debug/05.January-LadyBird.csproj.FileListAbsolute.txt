@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\05.January-LadyBird\bin\Debug\05.January-LadyBird.exe.config
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\05.January-LadyBird\bin\Debug\05.January-LadyBird.exe
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\05.January-LadyBird\bin\Debug\05.January-LadyBird.pdb
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\05.January-LadyBird\obj\Debug\05.January-LadyBird.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\05.January-LadyBird\obj\Debug\05.January-LadyBird.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\05.January-LadyBird\obj\Debug\05.January-LadyBird.exe
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\05.January-LadyBird\obj\Debug\05.January-LadyBird.pdb

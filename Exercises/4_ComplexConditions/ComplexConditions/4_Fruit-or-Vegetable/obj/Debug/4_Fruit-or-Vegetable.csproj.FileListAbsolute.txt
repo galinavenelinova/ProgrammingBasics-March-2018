@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\4_Fruit-or-Vegetable\bin\Debug\4_Fruit-or-Vegetable.exe.config
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\4_Fruit-or-Vegetable\bin\Debug\4_Fruit-or-Vegetable.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\4_Fruit-or-Vegetable\bin\Debug\4_Fruit-or-Vegetable.pdb
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\4_Fruit-or-Vegetable\obj\Debug\4_Fruit-or-Vegetable.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\4_Fruit-or-Vegetable\obj\Debug\4_Fruit-or-Vegetable.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\4_Fruit-or-Vegetable\obj\Debug\4_Fruit-or-Vegetable.pdb

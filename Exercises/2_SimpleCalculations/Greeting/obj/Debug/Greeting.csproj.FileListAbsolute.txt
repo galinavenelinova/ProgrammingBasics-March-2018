@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Greeting\bin\Debug\Greeting.exe.config
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Greeting\bin\Debug\Greeting.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Greeting\bin\Debug\Greeting.pdb
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Greeting\obj\Debug\Greeting.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Greeting\obj\Debug\Greeting.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Greeting\obj\Debug\Greeting.pdb

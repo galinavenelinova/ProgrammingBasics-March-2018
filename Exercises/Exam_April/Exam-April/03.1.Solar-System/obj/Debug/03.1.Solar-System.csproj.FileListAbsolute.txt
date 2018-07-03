@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\03.1.Solar-System\bin\Debug\03.1.Solar-System.exe.config
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\03.1.Solar-System\bin\Debug\03.1.Solar-System.exe
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\03.1.Solar-System\bin\Debug\03.1.Solar-System.pdb
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\03.1.Solar-System\obj\Debug\03.1.Solar-System.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\03.1.Solar-System\obj\Debug\03.1.Solar-System.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\03.1.Solar-System\obj\Debug\03.1.Solar-System.exe
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\03.1.Solar-System\obj\Debug\03.1.Solar-System.pdb

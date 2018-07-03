@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\02.1.Spaceship\bin\Debug\02.1.Spaceship.exe.config
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\02.1.Spaceship\bin\Debug\02.1.Spaceship.exe
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\02.1.Spaceship\bin\Debug\02.1.Spaceship.pdb
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\02.1.Spaceship\obj\Debug\02.1.Spaceship.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\02.1.Spaceship\obj\Debug\02.1.Spaceship.exe
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\02.1.Spaceship\obj\Debug\02.1.Spaceship.pdb

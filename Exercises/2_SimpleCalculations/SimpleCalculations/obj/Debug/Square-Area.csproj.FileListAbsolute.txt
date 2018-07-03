@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\SimpleCalculations\bin\Debug\SimpleCalculations.exe.config
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\SimpleCalculations\bin\Debug\SimpleCalculations.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\SimpleCalculations\bin\Debug\SimpleCalculations.pdb
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\SimpleCalculations\obj\Debug\Square-Area.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\SimpleCalculations\obj\Debug\Square-Area.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\SimpleCalculations\obj\Debug\SimpleCalculations.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\SimpleCalculations\obj\Debug\SimpleCalculations.pdb

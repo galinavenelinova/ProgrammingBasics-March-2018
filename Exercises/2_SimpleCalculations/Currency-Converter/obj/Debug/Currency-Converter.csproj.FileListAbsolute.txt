@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Currency-Converter\bin\Debug\Currency-Converter.exe.config
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Currency-Converter\bin\Debug\Currency-Converter.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Currency-Converter\bin\Debug\Currency-Converter.pdb
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Currency-Converter\obj\Debug\Currency-Converter.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Currency-Converter\obj\Debug\Currency-Converter.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Currency-Converter\obj\Debug\Currency-Converter.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Currency-Converter\obj\Debug\Currency-Converter.pdb

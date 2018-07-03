@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\01.1.Moon\bin\Debug\01.1.Moon.exe.config
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\01.1.Moon\bin\Debug\01.1.Moon.exe
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\01.1.Moon\bin\Debug\01.1.Moon.pdb
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\01.1.Moon\obj\Debug\01.1.Moon.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\01.1.Moon\obj\Debug\01.1.Moon.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\01.1.Moon\obj\Debug\01.1.Moon.exe
+D:\ProgrammingBasics2018\Exercises\Exam_April\Exam-April\01.1.Moon\obj\Debug\01.1.Moon.pdb

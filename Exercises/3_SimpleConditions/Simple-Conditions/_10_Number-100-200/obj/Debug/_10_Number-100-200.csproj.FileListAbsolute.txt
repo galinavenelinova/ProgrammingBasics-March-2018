@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_10_Number-100-200\bin\Debug\_10_Number-100-200.exe.config
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_10_Number-100-200\bin\Debug\_10_Number-100-200.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_10_Number-100-200\bin\Debug\_10_Number-100-200.pdb
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_10_Number-100-200\obj\Debug\_10_Number-100-200.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_10_Number-100-200\obj\Debug\_10_Number-100-200.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\_10_Number-100-200\obj\Debug\_10_Number-100-200.pdb

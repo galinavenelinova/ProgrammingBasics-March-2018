@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\3_Even-or-Odd\bin\Debug\3_Even-or-Odd.exe.config
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\3_Even-or-Odd\bin\Debug\3_Even-or-Odd.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\3_Even-or-Odd\bin\Debug\3_Even-or-Odd.pdb
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\3_Even-or-Odd\obj\Debug\3_Even-or-Odd.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\3_Even-or-Odd\obj\Debug\3_Even-or-Odd.exe
+D:\ProgrammingBasics2018\Exercises\Simple-Conditions\Simple-Conditions\3_Even-or-Odd\obj\Debug\3_Even-or-Odd.pdb

@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\8_Trade-Comissions\bin\Debug\8_Trade-Comissions.exe.config
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\8_Trade-Comissions\bin\Debug\8_Trade-Comissions.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\8_Trade-Comissions\bin\Debug\8_Trade-Comissions.pdb
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\8_Trade-Comissions\obj\Debug\8_Trade-Comissions.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\8_Trade-Comissions\obj\Debug\8_Trade-Comissions.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\8_Trade-Comissions\obj\Debug\8_Trade-Comissions.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\8_Trade-Comissions\obj\Debug\8_Trade-Comissions.pdb

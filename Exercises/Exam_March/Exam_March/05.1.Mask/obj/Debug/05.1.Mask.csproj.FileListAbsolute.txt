@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\05.1.Mask\bin\Debug\05.1.Mask.exe.config
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\05.1.Mask\bin\Debug\05.1.Mask.exe
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\05.1.Mask\bin\Debug\05.1.Mask.pdb
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\05.1.Mask\obj\Debug\05.1.Mask.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\05.1.Mask\obj\Debug\05.1.Mask.exe
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\05.1.Mask\obj\Debug\05.1.Mask.pdb

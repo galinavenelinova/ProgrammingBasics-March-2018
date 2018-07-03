@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\Exam_March\bin\Debug\Exam_March.exe.config
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\Exam_March\bin\Debug\Exam_March.exe
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\Exam_March\bin\Debug\Exam_March.pdb
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\Exam_March\obj\Debug\1_Hearthstone.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\Exam_March\obj\Debug\1_Hearthstone.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\Exam_March\obj\Debug\Exam_March.exe
+D:\ProgrammingBasics2018\Exercises\Exam_March\Exam_March\Exam_March\obj\Debug\Exam_March.pdb

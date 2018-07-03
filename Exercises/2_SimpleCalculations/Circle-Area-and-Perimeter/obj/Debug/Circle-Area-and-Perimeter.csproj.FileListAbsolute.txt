@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Circle-Area-and-Perimeter\bin\Debug\Circle-Area-and-Perimeter.exe.config
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Circle-Area-and-Perimeter\bin\Debug\Circle-Area-and-Perimeter.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Circle-Area-and-Perimeter\bin\Debug\Circle-Area-and-Perimeter.pdb
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Circle-Area-and-Perimeter\obj\Debug\Circle-Area-and-Perimeter.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Circle-Area-and-Perimeter\obj\Debug\Circle-Area-and-Perimeter.exe
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Circle-Area-and-Perimeter\obj\Debug\Circle-Area-and-Perimeter.pdb
+D:\ProgrammingBasics2018\Exercises\SimpleCalculations\Circle-Area-and-Perimeter\obj\Debug\Circle-Area-and-Perimeter.csprojResolveAssemblyReference.cache

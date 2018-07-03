@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\5_Hotel-Room\bin\Debug\5_Hotel-Room.exe.config
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\5_Hotel-Room\bin\Debug\5_Hotel-Room.exe
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\5_Hotel-Room\bin\Debug\5_Hotel-Room.pdb
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\5_Hotel-Room\obj\Debug\5_Hotel-Room.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\5_Hotel-Room\obj\Debug\5_Hotel-Room.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\5_Hotel-Room\obj\Debug\5_Hotel-Room.exe
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\5_Hotel-Room\obj\Debug\5_Hotel-Room.pdb

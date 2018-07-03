@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\04.Sum-Numbers\bin\Debug\04.Sum-Numbers.exe.config
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\04.Sum-Numbers\bin\Debug\04.Sum-Numbers.exe
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\04.Sum-Numbers\bin\Debug\04.Sum-Numbers.pdb
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\04.Sum-Numbers\obj\Debug\04.Sum-Numbers.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\04.Sum-Numbers\obj\Debug\04.Sum-Numbers.exe
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\04.Sum-Numbers\obj\Debug\04.Sum-Numbers.pdb

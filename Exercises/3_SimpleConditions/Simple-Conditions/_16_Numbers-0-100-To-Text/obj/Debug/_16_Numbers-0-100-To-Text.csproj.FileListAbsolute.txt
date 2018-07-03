@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\SimpleConditions\Simple-Conditions\_16_Numbers-0-100-To-Text\bin\Debug\_16_Numbers-0-100-To-Text.exe.config
+D:\ProgrammingBasics2018\Exercises\SimpleConditions\Simple-Conditions\_16_Numbers-0-100-To-Text\bin\Debug\_16_Numbers-0-100-To-Text.exe
+D:\ProgrammingBasics2018\Exercises\SimpleConditions\Simple-Conditions\_16_Numbers-0-100-To-Text\bin\Debug\_16_Numbers-0-100-To-Text.pdb
+D:\ProgrammingBasics2018\Exercises\SimpleConditions\Simple-Conditions\_16_Numbers-0-100-To-Text\obj\Debug\_16_Numbers-0-100-To-Text.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\SimpleConditions\Simple-Conditions\_16_Numbers-0-100-To-Text\obj\Debug\_16_Numbers-0-100-To-Text.exe
+D:\ProgrammingBasics2018\Exercises\SimpleConditions\Simple-Conditions\_16_Numbers-0-100-To-Text\obj\Debug\_16_Numbers-0-100-To-Text.pdb
+D:\ProgrammingBasics2018\Exercises\SimpleConditions\Simple-Conditions\_16_Numbers-0-100-To-Text\obj\Debug\_16_Numbers-0-100-To-Text.csprojResolveAssemblyReference.cache

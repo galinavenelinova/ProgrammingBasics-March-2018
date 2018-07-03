@@ -1,0 +1,7 @@
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\6_Histogram\obj\Debug\6_Histogram.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\6_Histogram\obj\Debug\6_Histogram.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\6_Histogram\bin\Debug\6_Histogram.exe.config
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\6_Histogram\bin\Debug\6_Histogram.exe
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\6_Histogram\bin\Debug\6_Histogram.pdb
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\6_Histogram\obj\Debug\6_Histogram.exe
+D:\ProgrammingBasics2018\Exercises\Exams\Exams-Exercises\6_Histogram\obj\Debug\6_Histogram.pdb

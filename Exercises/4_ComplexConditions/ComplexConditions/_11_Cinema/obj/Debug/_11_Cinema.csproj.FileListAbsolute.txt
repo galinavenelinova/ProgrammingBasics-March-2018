@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\_11_Cinema\obj\Debug\_11_Cinema.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\_11_Cinema\bin\Debug\_11_Cinema.exe.config
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\_11_Cinema\bin\Debug\_11_Cinema.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\_11_Cinema\bin\Debug\_11_Cinema.pdb
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\_11_Cinema\obj\Debug\_11_Cinema.exe
+D:\ProgrammingBasics2018\Exercises\4_ComplexConditions\ComplexConditions\_11_Cinema\obj\Debug\_11_Cinema.pdb

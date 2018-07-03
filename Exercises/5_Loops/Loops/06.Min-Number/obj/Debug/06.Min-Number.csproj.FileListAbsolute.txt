@@ -1,0 +1,6 @@
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\06.Min-Number\bin\Debug\06.Min-Number.exe.config
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\06.Min-Number\bin\Debug\06.Min-Number.exe
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\06.Min-Number\bin\Debug\06.Min-Number.pdb
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\06.Min-Number\obj\Debug\06.Min-Number.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\06.Min-Number\obj\Debug\06.Min-Number.exe
+D:\ProgrammingBasics2018\Exercises\5_Loops\Loops\06.Min-Number\obj\Debug\06.Min-Number.pdb
